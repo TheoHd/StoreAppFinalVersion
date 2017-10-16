@@ -1,4 +1,4 @@
-package gestionMagasin3;
+package StoreAppFinalVersion;
 import java.util.Scanner;
 
 public class Magasin {

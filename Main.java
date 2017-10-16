@@ -1,4 +1,4 @@
-package gestionMagasin3;
+package StoreAppFinalVersion;
 
 public class Main {
 
